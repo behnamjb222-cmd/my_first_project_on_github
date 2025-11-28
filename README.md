@@ -1,13 +1,23 @@
-# My First GitHub Project
+# Library Management System
 
-این اولین پروژه من روی گیت‌هاب است و برای تمرین و آشنایی با گیت و گیت‌هاب ساخته شده است.
+This project is a simple **Library Management System** designed to help users manage books, track availability, and organize library records.  
+It is my first practical project uploaded to GitHub while learning Git, GitHub, and project structure.
 
-## توضیح پروژه
-در این پروژه تمرین‌های اولیه کار با گیت انجام می‌شود و فعلاً شامل یک فایل README است.
+---
 
-## مهارت‌ها و تخصص‌ها
-- تحلیل داده  
-- برنامه‌نویسی با پایتون (Python)
+## 📚 Features
 
-## نویسنده
-بهنام جباری
+- Add, remove, and update books  
+- Track which books are available or borrowed  
+- Organized file structure for easy development  
+- Simple and clean codebase  
+- Easily extendable for future improvements  
+
+---
+
+## 🚀 Getting Started
+
+To clone this repository on your computer, run:
+
+```bash
+git clone https://github.com/behnamjb222-cmd/my_first_project_on_github.git
